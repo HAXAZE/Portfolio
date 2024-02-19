@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Data Annotator Intern",
+    title: "Machine Learning Intern",
     cardImage: "assets/images/experience-page/koireader.jpeg",
     place: "Virtual",
     time: "(Jan, 2021 - Current Time)",
